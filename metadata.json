@@ -1,0 +1,5 @@
+{
+  "name": "Sprite Sheet Studio",
+  "description": "An advanced tool to create animated sprite sheets from image sequences. Preview animations and export your creations as sprite sheets, GIFs, or MP4 videos, tailored for game development and animation projects.",
+  "requestFramePermissions": []
+}
